@@ -1,0 +1,53 @@
+.heading{
+	text-align:  center;
+	margin-top: 100px;
+}
+.container1
+{
+ 	display: flex;
+    flex-wrap: wrap;	
+	margin-top: 15%;
+	font-weight: bolder;
+
+
+}
+.container
+{
+	width: 430px;
+	background-color: grey;
+	border: 2px solid black;
+	margin: 5px;
+
+}
+
+#small	
+{
+	background-color: pink;
+	display: flex;
+	justify-content: center;
+	border-bottom: 3px solid black;
+	border-left: 5px solid black;
+    margin-left: 70%;
+	
+}
+#small1	
+{
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	border-bottom: 3px solid black;
+	border-left: 5px solid black;
+    margin-left: 70%;
+	
+}
+#small2	
+{
+	background-color: orange;
+	display: flex;
+
+	justify-content: center;
+	border-bottom: 3px solid black;
+	border-left: 5px solid black;
+    margin-left: 70%;
+	
+}
